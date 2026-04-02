@@ -2,6 +2,8 @@
 
 An AI-powered tool to analyze and enhance your resume, helping you match perfectly with job descriptions. Built using modern web technologies to provide an intuitive, secure, and blazing-fast experience.
 
+<!-- New commit to trigger contributor stats update -->
+
 ## ✨ Features
 
 - **AI Resume Analyzer**: Upload your resume, provide a job listing, and instantly get an in-depth ATS evaluation, score, and customized feedback.
